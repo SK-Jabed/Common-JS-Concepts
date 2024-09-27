@@ -10,6 +10,7 @@ function add (a, b) {
     console.log(current);
     return total;
 }
+
 console.log(a,b);
 console.log(total);
 add(5, 3);
